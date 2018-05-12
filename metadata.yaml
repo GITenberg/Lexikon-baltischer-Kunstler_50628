@@ -1,4 +1,5 @@
 _repo: Lexikon-baltischer-Kunstler_50628
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Döring, Julius
@@ -9,6 +10,9 @@ contributor:
       agent_name: Neumann, Wilhelm
       gutenberg_agent_id: '46008'
       url: http://www.gutenberg.org/2009/agents/46008
+covers:
+- cover_type: archival
+  image_path: 50628-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -16,6 +20,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50628#Lexikon-baltischer-Kunstler
 gutenberg_issued: '2015-12-05'
 gutenberg_type: Text
 identifiers:
